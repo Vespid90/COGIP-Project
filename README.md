@@ -3,6 +3,8 @@
 Bienvenue dans **COGIP Project**, une application web permettant de gérer les **factures**, les **clients** et les **contacts** de l'entreprise **COGIP**.  
 Ce projet est développé avec **Angular** pour le front-end et **FastAPI (Python)** pour le back-end.
 
+C'est avec ce projet que j'ai commencé à apprender le language Python ! Nous nous sommes lancé un challenge de taille ; créer une web app avec de nouveaux languages et frameworks, sans connaissance au préalable.
+
 ---
 
 ## 🚀 Technologies utilisées
